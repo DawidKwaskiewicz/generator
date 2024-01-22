@@ -1,0 +1,210 @@
+# -*-compilation-*-
+Processing `C:/Users/Dewey/source/repos/generatorv8/music.ly'
+Parsing...
+C:/Users/Dewey/source/repos/generatorv8/music.ly:158:61: error: wrong type for argument 1.  Expecting pitch, found "c"
+    << { \numericTimeSignature \time 4/4 \tempo 4 = 90 \key 
+                                                            c \major \drumsUpA \key f \major \drumsUpB \key c \major \drumsUpA  }
+C:/Users/Dewey/source/repos/generatorv8/music.ly:158:85: error: wrong type for argument 1.  Expecting pitch, found "f"
+    << { \numericTimeSignature \time 4/4 \tempo 4 = 90 \key c \major \drumsUpA \key 
+                                                                                    f \major \drumsUpB \key c \major \drumsUpA  }
+C:/Users/Dewey/source/repos/generatorv8/music.ly:158:109: error: wrong type for argument 1.  Expecting pitch, found "c"
+    << { \numericTimeSignature \time 4/4 \tempo 4 = 90 \key c \major \drumsUpA \key f \major \drumsUpB \key 
+                                                                                                            c \major \drumsUpA  }
+C:/Users/Dewey/source/repos/generatorv8/music.ly:160:61: error: wrong type for argument 1.  Expecting pitch, found "c"
+       { \numericTimeSignature \time 4/4 \tempo 4 = 90 \key 
+                                                            c \major \drumsDownA \key f \major \drumsDownB \key c \major \drumsDownA  } >>
+C:/Users/Dewey/source/repos/generatorv8/music.ly:160:87: error: wrong type for argument 1.  Expecting pitch, found "f"
+       { \numericTimeSignature \time 4/4 \tempo 4 = 90 \key c \major \drumsDownA \key 
+                                                                                      f \major \drumsDownB \key c \major \drumsDownA  } >>
+C:/Users/Dewey/source/repos/generatorv8/music.ly:160:113: error: wrong type for argument 1.  Expecting pitch, found "c"
+       { \numericTimeSignature \time 4/4 \tempo 4 = 90 \key c \major \drumsDownA \key f \major \drumsDownB \key 
+                                                                                                                c \major \drumsDownA  } >>
+Interpreting music...
+C:/Users/Dewey/source/repos/generatorv8/music.ly:24:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:24:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:45:28: warning: unterminated tie
+b'16 r8 c''16 f'8 e'8~ 8 r8
+                           ~ 8 r16 f'16~ |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:25:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:25:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:26:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:26:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:51:28: warning: unterminated tie
+b'16 r8 c''16 f'8 e'8~ 8 r8
+                           ~ 8 r16 f'16~ |
+[8]
+C:/Users/Dewey/source/repos/generatorv8/music.ly:27:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:27:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:28:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:28:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:57:28: warning: unterminated tie
+b'16 r8 c''16 f'8 e'8~ 8 r8
+                           ~ 8 f'8~ |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:29:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:29:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:30:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:30:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:63:28: warning: unterminated tie
+b'16 r8 c''16 f'8 e'8~ 8 r8
+                           ~ 8 f'8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:64:29: warning: unterminated tie
+r8 a'8 r16 b'8 f''16 r16 r8.
+                            ~ 16 d''8 e''16 |
+[16]
+C:/Users/Dewey/source/repos/generatorv8/music.ly:31:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:31:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:92:37: warning: unterminated tie
+d8 8 8 8 f,4 8. 16 | bes,8. 16 16 8.
+                                    ~ a,4 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:92:37: warning: unterminated tie
+d8 8 8 8 f,4 8. 16 | bes,8. 16 16 8.
+                                    ~ a,4 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:93:37: warning: unterminated tie
+d8 8 8 8 f,4 8. 16 | bes,8. 16 16 8.
+                                    ~ a,4 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:93:37: warning: unterminated tie
+d8 8 8 8 f,4 8. 16 | bes,8. 16 16 8.
+                                    ~ a,4 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:94:37: warning: unterminated tie
+d8 8 8 8 f,4 8. 16 | bes,8. 16 16 8.
+                                    ~ a,4 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:94:37: warning: unterminated tie
+d8 8 8 8 f,4 8. 16 | bes,8. 16 16 8.
+                                    ~ a,4 8 8 |
+[24]
+C:/Users/Dewey/source/repos/generatorv8/music.ly:95:37: warning: unterminated tie
+d8 8 8 8 f,4 8. 16 | bes,8. 16 16 8.
+                                    ~ a,4 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:95:37: warning: unterminated tie
+d8 8 8 8 f,4 8. 16 | bes,8. 16 16 8.
+                                    ~ a,4 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:96:37: warning: unterminated tie
+d8 8 8 8 f,4 8. 16 | bes,8. 16 16 8.
+                                    ~ a,4 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:96:37: warning: unterminated tie
+d8 8 8 8 f,4 8. 16 | bes,8. 16 16 8.
+                                    ~ a,4 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:97:37: warning: unterminated tie
+d8 8 8 8 f,4 8. 16 | bes,8. 16 16 8.
+                                    ~ a,4 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:97:37: warning: unterminated tie
+d8 8 8 8 f,4 8. 16 | bes,8. 16 16 8.
+                                    ~ a,4 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:98:37: warning: unterminated tie
+d8 8 8 8 f,4 8. 16 | bes,8. 16 16 8.
+                                    ~ a,4 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:98:37: warning: unterminated tie
+d8 8 8 8 f,4 8. 16 | bes,8. 16 16 8.
+                                    ~ a,4 8 8 |
+[32]
+C:/Users/Dewey/source/repos/generatorv8/music.ly:99:37: warning: unterminated tie
+d8 8 8 8 f,4 8. 16 | bes,8. 16 16 8.
+                                    ~ a,4 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:99:37: warning: unterminated tie
+d8 8 8 8 f,4 8. 16 | bes,8. 16 16 8.
+                                    ~ a,4 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:24:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:24:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:45:28: warning: unterminated tie
+b'16 r8 c''16 f'8 e'8~ 8 r8
+                           ~ 8 r16 f'16~ |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:25:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:25:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:26:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:26:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:51:28: warning: unterminated tie
+b'16 r8 c''16 f'8 e'8~ 8 r8
+                           ~ 8 r16 f'16~ |
+[40]
+C:/Users/Dewey/source/repos/generatorv8/music.ly:27:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:27:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:28:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:28:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:57:28: warning: unterminated tie
+b'16 r8 c''16 f'8 e'8~ 8 r8
+                           ~ 8 f'8~ |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:29:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:29:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:30:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:30:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:63:28: warning: unterminated tie
+b'16 r8 c''16 f'8 e'8~ 8 r8
+                           ~ 8 f'8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:64:29: warning: unterminated tie
+r8 a'8 r16 b'8 f''16 r16 r8.
+                            ~ 16 d''8 e''16 |
+[48]
+C:/Users/Dewey/source/repos/generatorv8/music.ly:31:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+C:/Users/Dewey/source/repos/generatorv8/music.ly:31:23: warning: unterminated tie
+d4 16 8. f,8. 16 8. 16
+                      ~ | c4 16 8. f,,8. 16 8 8 |
+Preprocessing graphical objects...
+Interpreting music...
+MIDI output to `/Users/Dewey/source/repos/generatorv8/music.mid'...
+Finding the ideal number of pages...
+Fitting music on 3 or 4 pages...
+Drawing systems...
+Converting to `/Users/Dewey/source/repos/generatorv8/music.pdf'...
+fatal error: failed files: "C:\\Users\\Dewey\\source\\repos\\generatorv8\\music.ly"

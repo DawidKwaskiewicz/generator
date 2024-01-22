@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="LeadGuitarInterProb.cs" />
+    <Compile Remove="LeadGuitarInterProb.Designer.cs" />
+    <Compile Remove="LeadGuitarNotesProb.cs" />
+    <Compile Remove="LeadGuitarNotesProb.Designer.cs" />
+    <Compile Remove="LeadGuitarRhythmProb.cs" />
+    <Compile Remove="LeadGuitarRhythmProb.Designer.cs" />
+    <Compile Remove="LeadGuitarSettings.cs" />
+    <Compile Remove="LeadGuitarSettings.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="LeadGuitarInterProb.resx" />
+    <EmbeddedResource Remove="LeadGuitarNotesProb.resx" />
+    <EmbeddedResource Remove="LeadGuitarRhythmProb.resx" />
+    <EmbeddedResource Remove="LeadGuitarSettings.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="LeadVocalsRhythmProb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LeadVocalsNotesProb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LeadVocalsInterProb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>
